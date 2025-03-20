@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Problem 1
 
 ## Prerequisites
@@ -37,6 +37,4 @@ node server.js
 ![alt text](image.png)
 ```
 
-=======
-# RA2211032020010
->>>>>>> 389cb8d199dbdf6b40f696bdab889eec97150036
+
