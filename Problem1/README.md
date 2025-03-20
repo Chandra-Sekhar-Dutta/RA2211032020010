@@ -1,4 +1,3 @@
-
 # Problem 1
 
 ## Prerequisites
@@ -25,16 +24,15 @@ node server.js
 ## Output Screenshots
 
 ### Even Number API
-![alt text](<Even 1.png>)
+![alt text](Even%201.png) <!-- Fixed the file name and removed angle brackets -->
 
 ### Fibonacci Number API
-![alt text](image-2.png)
+![alt text](fibonacci.png)
 
 ### Prime Number API
-![alt text](image-1.png)
+![alt text](primes.png)
 
 ### Random Number API
-![alt text](image.png)
-```
+![alt text](random.png)
 
 
